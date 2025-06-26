@@ -1,6 +1,3 @@
-
-
-
 ### 📖Lightsaber List
  
 ### Ahsoka Tano
