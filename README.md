@@ -3,6 +3,7 @@
 ### Ahsoka Tano
 <details>
  <summary>Ahsoka Tano</summary>
+ 
 | Name | OFF | ON|
 |:--------------:|:---------:|:------------:|
 | **Ahsoka Tano's Lightsaber (Green)** <br><br> **Ahsoka Tano's Lightsaber (Blue)** | <img src="https://i.imgur.com/Jmp19ir.png" width="121" height="121"> | <img src="https://i.imgur.com/dvJ4Ias.png" width="192" height="192"> <img src="https://i.imgur.com/13q6GSK.png" width="192" height="192"> |
