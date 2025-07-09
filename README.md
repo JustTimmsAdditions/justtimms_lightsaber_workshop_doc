@@ -1,4 +1,5 @@
 
+
 ![Header](https://i.imgur.com/ZiFt0Za.png)
 
 Welcome to the official documentation for **JustTimms Lightsaber Workshop**, a Minecraft resource pack that adds detailed lightsabers using the `minecraft:custom_name` and `minecraft:select` system. Ideal for roleplay, PvP, map-making, or building your own Star Wars experience in Minecraft.
@@ -22,12 +23,11 @@ Welcome to the official documentation for **JustTimms Lightsaber Workshop**, a M
 
 ## 🔍 Overview
 
-This pack replaces every **sword type** in Minecraft with fully 3D-modeled lightsabers, depending on their name. In addition, a **stick** can be renamed to display just the **lightsaber hilt**, and some models also replace the **bow** for blaster-like functionality. Each item uses the `custom_name` selector to activate a specific model and color.
+This pack replaces every sword type in Minecraft with fully 3D-modeled lightsabers, depending on their name. In addition, a **stick** can be renamed to display just the **lightsaber hilt**, and some models also replace the **bow** for blaster-like functionality. Each item uses the `custom_name` selector to activate a specific model and color.
 
-- 🎨 Fully custom 3D models
-- ⚡ Works without mods (vanilla-compatible)
-- 🛠 Powered by `minecraft:select` & `custom_name`
-- ✨ Great for datapacks, servers, and creative builds
+- 🎨Vanilla styled custom 3D models
+- ⚡Works without mods (vanilla-compatible)
+- 🛠 Utilizing Custom Name Components _(Vanilla CIT)_
 
 ---
 
@@ -36,17 +36,19 @@ This pack replaces every **sword type** in Minecraft with fully 3D-modeled light
 1. Download the latest `.zip` file from the [Modrinth page](https://modrinth.com/resourcepack/justtimms-lightsaber-workshop).
 2. Place the `.zip` in your Minecraft `resourcepacks` folder.
 3. Enable the pack in the Minecraft resource packs menu.
-4. Make sure to use **OptiFine** or a compatible Minecraft version that supports custom item models based on names.
+4. Enjoy! 😄
 
 ---
 
 ## 🧪 How to Use
 
 1. Open an anvil in-game.
-2. Rename an item (e.g., **Netherite Sword**) to a supported lightsaber name (see list below).
+2. Rename an item _(e.g., Netherite Sword)_ to a supported lightsaber name _(see list below)_.
 3. When holding the renamed item, the model will change to the corresponding lightsaber.
 
-> 💡 Example: Rename a Netherite Sword to `Vader's Saber` to get a red-bladed Sith-style saber.
+> 💡 Example: Rename a Iron Sword to `Luke Skywalker's Lightsaber (Green)` to get Luke Skywalker's Green Lightsaber from Return of the Jedi.
+> 
+> <img src="https://i.imgur.com/8qkKvsq.png" alt="Example" width="314" height="148"><br>
 
 ---
 
@@ -65,54 +67,39 @@ This pack replaces every **sword type** in Minecraft with fully 3D-modeled light
 
 ---
 
-## 🧰 Customization Guide
-
-You can add your own lightsabers or modify existing ones by editing the `item.override` JSON files and adding new models/textures.
-
-### Basic Steps:
-- Add your new model to the `models/item/` directory.
-- Update the `overrides` section with a new `predicate` for the `custom_model_data` or `custom_name`.
-- Use an anvil to assign the new name to your in-game item.
-
-> Need help? Check out Minecraft's [Custom Item Model documentation](https://minecraft.wiki/w/Model#Item_predicates).
-
----
-
 ## 🔄 Compatibility
 
-- ✔️ Vanilla Minecraft (OptiFine recommended)
-- ✔️ Works in multiplayer (client-side only)
+- ✔️ Vanilla Minecraft
+- ✔️ Works in multiplayer _(client-side only)_
 - ❌ Not compatible with Bedrock Edition
-- ✔️ Can be combined with datapacks for effects/sounds
 
 ---
 
 ## ❓ FAQ
 
 **Q: Does this require mods?**  
-A: No. It's a resource pack using vanilla Minecraft features (OptiFine recommended for best visuals).
+A: No. It's a resource pack using vanilla Minecraft features _(OptiFine recommended for best visuals)_.
 
 **Q: Can I use this in my server/map?**  
-A: Yes! Feel free to use it for personal or public projects. Credit is appreciated.
+A: Yes! Feel free to use it for personal or public projects. _(Credit is appreciated!)_
 
-**Q: Can I make my own lightsaber designs?**  
-A: Absolutely! See the customization guide above.
-
----
-
-## 📄 License
-
-This project is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
-
-> Please credit “JustTimms” when sharing or remixing.
+**Q: What shader pack do you use?**  
+A: I used Complementary Shaders with bloom **ON**.
 
 ---
 
-## 🙌 Credits
+## 📄 Terms od Use
 
-- Models & Textures: [JustTimms](https://modrinth.com/user/JustTimms)
-- Inspired by Star Wars™  
-- Special thanks to the Minecraft resource pack community!
+You are  **free**  to:
+-   Use this pack on your server.
+-   Alter the pack for personal use.
+-   Combine with other packs for personal use and play.
+-   Use this pack in YouTube videos.  _(Credit is appreciated)_
 
----
+You are  **NOT**  allowed to:
+-   Claim ownership over the textures/models in this pack.
+-   Reupload the entire resource pack elsewhere.
+-   Redistribute unedited individual assets from the pack without permission and credit.
+-   Redistribute edited assets from the pack without permission and credit.
 
+Thanks in advance.
