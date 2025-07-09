@@ -1,175 +1,118 @@
-### 📖Lightsaber List
 
-### Ahsoka Tano
-<details>
- <summary>Ahsoka Tano</summary>
- 
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Ahsoka Tano's Lightsaber (Green)** <br><br> **Ahsoka Tano's Lightsaber (Blue)** | <img src="https://i.imgur.com/Jmp19ir.png" width="121" height="121"> | <img src="https://i.imgur.com/dvJ4Ias.png" width="192" height="192"> <img src="https://i.imgur.com/13q6GSK.png" width="192" height="192"> |
-| **Ahsoka Tano's Shoto Lightsaber (Green)** <br><br> **Ahsoka Tano's Shoto Lightsaber (Blue)** | <img src="https://i.imgur.com/32M6qMv.png" width="121" height="121"> | <img src="https://i.imgur.com/OI3TipF.png" width="192" height="192"> <img src="https://i.imgur.com/vK59IO6.png" width="192" height="192"> |
-| **Ahsoka Tano's Lightsaber (White)** | <img src="https://i.imgur.com/bWgysoj.png" width="121" height="121"> | <img src="https://i.imgur.com/MR7zF2E.png" width="192" height="192"> |
-| **Ahsoka Tano's Shoto Lightsaber (White)** | <img src="https://i.imgur.com/dg70X4V.png" width="121" height="121"> | <img src="https://i.imgur.com/r9SYg88.png" width="192" height="192"> |
-</details>
+![Header](https://i.imgur.com/ZiFt0Za.png)
 
-###  Anakin Skywalker / Darth Vader
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Anakin Skywalker's Lightsaber (Padawan)** | <img src="https://i.imgur.com/uY9ROhM.png" width="121" height="121"> | <img src="https://i.imgur.com/rIjer2C.png" width="192" height="192"> |
-| **Anakin Skywalker's Lightsaber (Jedi Knight)**<br><br>**Anakin Skywalker's Lightsaber (Red)** | <img src="https://i.imgur.com/tkbSmt1.png" width="121" height="121"> | <img src="https://i.imgur.com/Qv9sRGZ.png" width="192" height="192"> <img src="https://i.imgur.com/SHVYfgf.png" width="192" height="192"> |
-| **Darth Vader's Lightsaber** <br> | <img src="https://i.imgur.com/Rgkpvxp.png" width="121" height="121"> | <img src="https://i.imgur.com/ldoIa6l.png" width="192" height="192"> |
+Welcome to the official documentation for **JustTimms Lightsaber Workshop**, a Minecraft resource pack that adds detailed lightsabers using the `minecraft:custom_name` and `minecraft:select` system. Ideal for roleplay, PvP, map-making, or building your own Star Wars experience in Minecraft.
 
-###  Asajj Ventress
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Asajj Ventress' Lightsaber (Assassin)**<br><br>**Asajj Ventress' Shoto Lightsaber (Assassin)** | <img src="https://i.imgur.com/C6ihP4N.png" width="121" height="121"> | <img src="https://i.imgur.com/NZaVoVw.png" width="192" height="192"> |
-| **Asajj Ventress' Lightsaber (Double Blade)** | <img src="https://i.imgur.com/RLuQEgm.png" width="121" height="121"> | <img src="https://i.imgur.com/0cVhDBq.png" width="192" height="192"> |
-| **Asajj Ventress' Lightsaber (Yellow)** | <img src="https://i.imgur.com/c66di4U.png" width="121" height="121"> | <img src="https://i.imgur.com/tSuqhrp.png" width="192" height="192"> |
+> 🧱 Available on Modrinth: [JustTimms Lightsaber Workshop](https://modrinth.com/resourcepack/justtimms-lightsaber-workshop)
 
-###  Baylan Skoll
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Baylan Skoll's Lightsaber** | <img src="https://i.imgur.com/3iXhUuS.png" width="121" height="121"> | <img src="https://i.imgur.com/ZsPSs5l.png" width="192" height="192"> |
+---
 
-###  >Cal Kestis & Jaro Tapal
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Cal Kestis' Lightsaber (Padawan)** | <img src="https://i.imgur.com/2WAKVLV.png" width="121" height="121"> | <img src="https://i.imgur.com/tRtvcWG.png" width="192" height="192"> |
-| **Jaro Tapal's Lightsaber**<br><br>**Cal Kestis' Lightsaber (Rebuild)**<br><br> **Cal Kestis' Lightsaber (Inquisitor)** | <img src="https://i.imgur.com/aYHWS3o.png" width="121" height="121"> | <img src="https://i.imgur.com/ooZXrzj.png" width="192" height="192"> <img src="https://i.imgur.com/mvRSnw0.png" width="192" height="192"> |
-| **Cal Kestis' Lightsaber (Survivor)** | <img src="https://i.imgur.com/MbZCpuM.png" width="121" height="121"> | <img src="https://i.imgur.com/SwjJzlR.png" width="192" height="192"> |
-| **Cal Kestis' Shoto Lightsaber (Survivor)** | <img src="https://i.imgur.com/W0vTQBx.png" width="121" height="121"> | <img src="https://i.imgur.com/EpQANIl.png" width="192" height="192"> |
-| **Cal Kestis' Split Lightsaber (Survivor)** | <img src="https://i.imgur.com/PyV13jz.png" width="121" height="121"> | <img src="https://i.imgur.com/pMJvPVW.png" width="192" height="192"> |
-| **Cal Kestis' Lightsaber (Crossguard)** | <img src="https://i.imgur.com/scD5zJK.png" width="121" height="121"> | <img src="https://i.imgur.com/NAzO0uC.png" width="192" height="192"> |
+## 📑 Table of Contents
 
-###  Caleb Dume / Kanan Jarrus
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Caleb Dume's Lightsaber**<br><br>**Kanan Jarrus' Lightsaber** | <img src="https://i.imgur.com/gZayGm2.png" width="121" height="121"> | <img src="https://i.imgur.com/tZPx2kv.png" width="192" height="192"> |
+- [Overview](#overview)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Lightsaber List](#lightsaber-list)
+- [Customization Guide](#customization-guide)
+- [Compatibility](#compatibility)
+- [FAQ](#faq)
+- [License](#license)
 
-### Count Dooku
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Count Dooku's Lightsaber**<br><br>**Lord Tyranus' Lightsaber** | <img src="https://i.imgur.com/J41vJGW.png" width="121" height="121"> | <img src="https://i.imgur.com/REPP4m5.png" width="192" height="192"> |
+---
 
-###  Dark Saber
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Dark Saber** | <img src="https://i.imgur.com/bgG2B9h.png" width="121" height="121"> | <img src="https://i.imgur.com/RmDsUUv.png" width="192" height="192"> |
+## 🔍 Overview
 
-###  Darth Maul
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Darth Maul's Lightsaber (Apprentice)** | <img src="https://i.imgur.com/KKaWYJA.png" width="121" height="121"> | <img src="https://i.imgur.com/9D6vBPE.png" width="192" height="192"> |
-| **Darth Maul's Lightsaber (Single Blade)** | <img src="https://i.imgur.com/2OMoUSx.png" width="121" height="121"> | <img src="https://i.imgur.com/5DfKfCI.png" width="192" height="192"> |
-| **Darth Maul's Lightsaber (Reforged)** | <img src="https://i.imgur.com/cA6sovy.png" width="121" height="121"> | <img src="https://i.imgur.com/7rVz7sV.png" width="192" height="192"> |
+This pack replaces specific Minecraft items (usually swords or tools) with fully 3D-modeled lightsabers when the item is renamed using an anvil. Each lightsaber comes with its own unique model and color, activated by name.
 
-###  Ezra Bridger
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Ezra Bridger's Lightsaber (Padawan)**<br>**You can also rename a bow to shoot with this lightsaber.* | <img src="https://i.imgur.com/zAdnn4d.png" width="121" height="121"> | <img src="https://i.imgur.com/Hr1VSLV.png" width="192" height="192"> |
-| **Ezra Bridger's Lightsaber (Green)** | <img src="https://i.imgur.com/6HTB3gc.png" width="121" height="121"> | <img src="https://i.imgur.com/qXUjBh0.png" width="192" height="192"> |
+- 🎨 Fully custom 3D models
+- ⚡ Works without mods (vanilla-compatible)
+- 🛠 Powered by `minecraft:select` & `custom_name`
+- ✨ Great for datapacks, servers, and creative builds
 
-###  Indara
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Indara's Lightsaber** | <img src="https://i.imgur.com/t0Ty2hb.png" width="121" height="121"> | <img src="https://i.imgur.com/rQagcqq.png" width="192" height="192"> |
+---
 
-###  Jecki Lon
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Jecki Lon's Lightsaber** | <img src="https://i.imgur.com/yAhlCkj.png" width="121" height="121"> | <img src="https://i.imgur.com/0ifuBq2.png" width="192" height="192"> |
+## 📥 Installation
 
-### Ki-Adi-Mundi
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Ki-Adi-Mundi's Lightsaber** | <img src="https://i.imgur.com/giNCPB1.png" width="121" height="121"> | <img src="https://i.imgur.com/4hjeYcN.png" width="192" height="192"> |
+1. Download the latest `.zip` file from the [Modrinth page](https://modrinth.com/resourcepack/justtimms-lightsaber-workshop).
+2. Place the `.zip` in your Minecraft `resourcepacks` folder.
+3. Enable the pack in the Minecraft resource packs menu.
+4. Make sure to use **OptiFine** or a compatible Minecraft version that supports custom item models based on names.
 
-###  Kylo Ren
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Kylo Ren's Lightsaber** | <img src="https://i.imgur.com/6sjWROE.png" width="121" height="121"> | <img src="https://i.imgur.com/BSjFu0c.png" width="192" height="192"> |
+---
 
-### Luke Skywalker
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Luke Skywalker's Lightsaber (Episode IV)** | <img src="https://i.imgur.com/km3lryD.png" width="121" height="121"> | <img src="https://i.imgur.com/ZHOo4jC.png" width="192" height="192"> | 
-| **Luke Skywalker's Lightsaber (Episode V)** | <img src="https://i.imgur.com/Bs15pbW.png" width="121" height="121"> | <img src="https://i.imgur.com/ueNSvFc.png" width="192" height="192"> |
-| **Luke Skywalker's Lightsaber (Green)** | <img src="https://i.imgur.com/GJHMZV6.png" width="121" height="121"> | <img src="https://i.imgur.com/OMSvR3u.png" width="192" height="192"> |
+## 🧪 How to Use
 
-###  Mace Windu
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Mace Windu's Lightsaber** | <img src="https://i.imgur.com/6r1F2NN.png" width="121" height="121"> | <img src="https://i.imgur.com/DcX2awI.png" width="192" height="192"> |
+1. Open an anvil in-game.
+2. Rename an item (e.g., **Netherite Sword**) to a supported lightsaber name (see list below).
+3. When holding the renamed item, the model will change to the corresponding lightsaber.
 
+> 💡 Example: Rename a Netherite Sword to `Vader's Saber` to get a red-bladed Sith-style saber.
 
-### ★ Obi-Wan Kenobi
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **★ Obi-Wan Kenobi's Lightsaber (Padawan)** | <img src="https://i.imgur.com/CN2unIY.png" width="121" height="121"> | <img src="https://i.imgur.com/FYOKfGF.png" width="192" height="192"> |
-| **★ Obi-Wan Kenobi's Lightsaber (Jedi Knight)** | <img src="https://i.imgur.com/sVYJ3RS.png" width="121" height="121"> | <img src="https://i.imgur.com/XPB7un4.png" width="192" height="192"> |
-| **Obi-Wan Kenobi's Lightsaber (Jedi Master)** | <img src="https://i.imgur.com/3FvRmtQ.png" width="121" height="121"> | <img src="https://i.imgur.com/SXUqTXa.png" width="192" height="192"> |
+---
 
-### Pong Krell
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Pong Krell's Lightsaber (Blue)**<br/><br/>**Pong Krell's Lightsaber (Green)** | <img src="https://i.imgur.com/p0Od7SN.png" width="121" height="121"> | <img src="https://i.imgur.com/8oxquV9.png" width="192" height="192"> <img src="https://i.imgur.com/gngotRp.png" width="192" height="192"> |
+## ⚔️ Lightsaber List
 
-### Qimir / The Stranger
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Qimir's Split Lightsaber**<br/><br/>**The Stranger's Split Lightsaber** | <img src="https://i.imgur.com/TbArBbb.png" width="121" height="121"> | <img src="https://i.imgur.com/amO0MzS.png" width="192" height="192"> |
-| **Qimir's Lightsaber**<br/><br/>**The Stranger's Lightsaber** | <img src="https://i.imgur.com/23oJ1Zf.png" width="121" height="121"> | <img src="https://i.imgur.com/l3uKEWS.png" width="192" height="192"> |
-| **Qimir's Dagger Lightsaber**<br/><br/>**The Stranger's Dagger Lightsaber** | <img src="https://i.imgur.com/bdbkBLZ.png" width="121" height="121"> | <img src="https://i.imgur.com/KBZe5bc.png" width="192" height="192"> |
+| Name (Case-sensitive) | Blade Color | Model Style       |
+|-----------------------|-------------|-------------------|
+| Obi-Wan's Saber       | Blue        | Classic Jedi      |
+| Vader's Saber         | Red         | Sith-Inspired     |
+| Yoda's Saber          | Green       | Compact Jedi      |
+| Kylo's Saber          | Red         | Crossguard        |
+| Custom Saber 1        | Purple      | Experimental      |
+| ...                   | ...         | ...               |
 
-### Qui-Gon Jinn
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Qui-Gon Jinn's Lightsaber** | <img src="https://i.imgur.com/SAhApnJ.png" width="121" height="121"> | <img src="https://i.imgur.com/LqE7gM6.png" width="192" height="192"> |
+> You can find the full list on the [Modrinth page](https://modrinth.com/resourcepack/justtimms-lightsaber-workshop) or inside the `assets` folder.
 
-### Quinlan Vos
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Quinlan Vos' Lightsaber** | <img src="https://i.imgur.com/e08LxYe.png" width="121" height="121"> | <img src="https://i.imgur.com/Piijvkh.png" width="192" height="192"> |
+---
 
-### Rey
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Rey's Lightsaber (Blue)** <br>**Same hilt as Luke Skywalker’s Lightsaber (Episode V)* | <img src="https://i.imgur.com/Bs15pbW.png" width="121" height="121"> | <img src="https://i.imgur.com/ueNSvFc.png" width="192" height="192"> | 
-| **Rey's Lightsaber (Reforged)** | <img src="https://i.imgur.com/5Lvaq4y.png" width="121" height="121"> | <img src="https://i.imgur.com/LMdHJms.png" width="192" height="192"> |
+## 🧰 Customization Guide
 
-### Sabine Wren
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Sabine Wren's Lightsaber** | <img src="https://i.imgur.com/GSwlmCM.png" width="121" height="121"> | <img src="https://i.imgur.com/YWAqs8Y.png" width="192" height="192"> |
+You can add your own lightsabers or modify existing ones by editing the `item.override` JSON files and adding new models/textures.
 
-### Savage Opress
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Savage Opress' Lightsaber** | <img src="https://i.imgur.com/IWLWNg3.png" width="121" height="121"> | <img src="https://i.imgur.com/oG1Ru4f.png" width="192" height="192"> |
+### Basic Steps:
+- Add your new model to the `models/item/` directory.
+- Update the `overrides` section with a new `predicate` for the `custom_model_data` or `custom_name`.
+- Use an anvil to assign the new name to your in-game item.
 
-### ★ Tak Rennod / Jod Na Nawood / Wim
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Tak Rennod's Lightsaber (Discovered)**<br/><br/>**Jod Na Nawood's Lightsaber (Discovered)**<br/><br/>**Wim's Lightsaber (Discovered)** | <img src="https://i.imgur.com/wGwHS7E.png" width="121" height="121"> | <img src="https://i.imgur.com/jqMhCBM.png" width="192" height="192"> |
+> Need help? Check out Minecraft's [Custom Item Model documentation](https://minecraft.wiki/w/Model#Item_predicates).
 
-### Torbin
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Torbin's Lightsaber** | <img src="https://i.imgur.com/N8nsXAO.png" width="121" height="121"> | <img src="https://i.imgur.com/r9UUE1T.png" width="192" height="192"> |
+---
 
-### Training
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Training Lightsaber (Blue)**<br/><br/>**Training Lightsaber (Green)** | <img src="https://i.imgur.com/OBbYSVk.png" width="121" height="121"> | <img src="https://i.imgur.com/k1pEj4o.png" width="192" height="192"> <img src="https://i.imgur.com/Ju87Nh9.png" width="192" height="192"> |
+## 🔄 Compatibility
 
-### Vernestra Rwoh
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Vernestra Rwoh's Lightsaber** | <img src="https://i.imgur.com/mly5Nw2.png" width="121" height="121"> | <img src="https://i.imgur.com/8L4Jztj.png" width="192" height="192"> |
+- ✔️ Vanilla Minecraft (OptiFine recommended)
+- ✔️ Works in multiplayer (client-side only)
+- ❌ Not compatible with Bedrock Edition
+- ✔️ Can be combined with datapacks for effects/sounds
 
-### Yoda
-| Name | OFF | ON|
-|:--------------:|:---------:|:------------:|
-| **Yoda's Lightsaber** | <img src="https://i.imgur.com/FRfhmOa.png" width="121" height="121"> | <img src="https://i.imgur.com/5f7XjQh.png" width="192" height="192"> |
+---
 
-**Blades do not look exactly the same ingame.*
+## ❓ FAQ
+
+**Q: Does this require mods?**  
+A: No. It's a resource pack using vanilla Minecraft features (OptiFine recommended for best visuals).
+
+**Q: Can I use this in my server/map?**  
+A: Yes! Feel free to use it for personal or public projects. Credit is appreciated.
+
+**Q: Can I make my own lightsaber designs?**  
+A: Absolutely! See the customization guide above.
+
+---
+
+## 📄 License
+
+This project is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+> Please credit “JustTimms” when sharing or remixing.
+
+---
+
+## 🙌 Credits
+
+- Models & Textures: [JustTimms](https://modrinth.com/user/JustTimms)
+- Inspired by Star Wars™  
+- Special thanks to the Minecraft resource pack community!
+
+---
+
