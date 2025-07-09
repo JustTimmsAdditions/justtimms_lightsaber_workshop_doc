@@ -14,10 +14,9 @@ Welcome to the official documentation for **JustTimms Lightsaber Workshop**, a M
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 - [Lightsaber List](#lightsaber-list)
-- [Customization Guide](#customization-guide)
 - [Compatibility](#compatibility)
 - [FAQ](#faq)
-- [License](#license)
+- [Terms of Use](#terms_of_use)
 
 ---
 
@@ -88,7 +87,7 @@ A: I used Complementary Shaders with bloom **ON**.
 
 ---
 
-## 📄 Terms od Use
+## 📄 Terms of Use
 
 You are  **free**  to:
 -   Use this pack on your server.
