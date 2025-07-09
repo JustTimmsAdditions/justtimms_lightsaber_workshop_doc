@@ -22,7 +22,7 @@ Welcome to the official documentation for **JustTimms Lightsaber Workshop**, a M
 
 ## 🔍 Overview
 
-This pack replaces specific Minecraft items (usually swords or tools) with fully 3D-modeled lightsabers when the item is renamed using an anvil. Each lightsaber comes with its own unique model and color, activated by name.
+This pack replaces every **sword type** in Minecraft with fully 3D-modeled lightsabers, depending on their name. In addition, a **stick** can be renamed to display just the **lightsaber hilt**, and some models also replace the **bow** for blaster-like functionality. Each item uses the `custom_name` selector to activate a specific model and color.
 
 - 🎨 Fully custom 3D models
 - ⚡ Works without mods (vanilla-compatible)
