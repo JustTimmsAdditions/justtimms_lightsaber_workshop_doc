@@ -50,6 +50,8 @@ Updated items will be marked with a “✦”.
 | **Asajj Ventress' Lightsaber (Yellow)** | <img src="https://i.imgur.com/c66di4U.png" width="121" height="121"> | <img src="https://i.imgur.com/tSuqhrp.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+<br>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
