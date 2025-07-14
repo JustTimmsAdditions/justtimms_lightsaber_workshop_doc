@@ -20,6 +20,7 @@ Updated items will be marked with a “✦”.
 | **Ahsoka Tano's Shoto Lightsaber (White)** | <img src="https://i.imgur.com/dg70X4V.png" width="121" height="121"> | <img src="https://i.imgur.com/r9SYg88.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -31,6 +32,7 @@ Updated items will be marked with a “✦”.
 | **Anakin Skywalker's Lightsaber (Jedi Knight)**<br><br>**Anakin Skywalker's Lightsaber (Red)** | <img src="https://i.imgur.com/tkbSmt1.png" width="121" height="121"> | <img src="https://i.imgur.com/Qv9sRGZ.png" width="192" height="192"> <img src="https://i.imgur.com/SHVYfgf.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -43,6 +45,7 @@ Updated items will be marked with a “✦”.
 | **Asajj Ventress' Lightsaber (Yellow)** | <img src="https://i.imgur.com/c66di4U.png" width="121" height="121"> | <img src="https://i.imgur.com/tSuqhrp.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -59,6 +62,7 @@ Updated items will be marked with a “✦”.
 > *Blades do not look exactly the same ingame.*<br>
 > **Cal Kestis' Lightsaber (Rebuild) & Cal Kestis' Lightsaber (Inquisitor) have the same hilt as jaro Tapall.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -71,6 +75,7 @@ Updated items will be marked with a “✦”.
 | **Darth Maul's Lightsaber (Reforged)** | <img src="https://i.imgur.com/cA6sovy.png" width="121" height="121"> | <img src="https://i.imgur.com/7rVz7sV.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -82,6 +87,7 @@ Updated items will be marked with a “✦”.
 | **Ezra Bridger's Lightsaber (Green)** | <img src="https://i.imgur.com/6HTB3gc.png" width="121" height="121"> | <img src="https://i.imgur.com/qXUjBh0.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -94,6 +100,7 @@ Updated items will be marked with a “✦”.
 | **Luke Skywalker's Lightsaber (Green)** | <img src="https://i.imgur.com/GJHMZV6.png" width="121" height="121"> | <img src="https://i.imgur.com/OMSvR3u.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -106,6 +113,7 @@ Updated items will be marked with a “✦”.
 | **Obi-Wan Kenobi's Lightsaber (Jedi Master)** | <img src="https://i.imgur.com/3FvRmtQ.png" width="121" height="121"> | <img src="https://i.imgur.com/SXUqTXa.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -116,6 +124,7 @@ Updated items will be marked with a “✦”.
 | **Pong Krell's Lightsaber (Blue)**<br/><br/>**Pong Krell's Lightsaber (Green)** | <img src="https://i.imgur.com/p0Od7SN.png" width="121" height="121"> | <img src="https://i.imgur.com/8oxquV9.png" width="192" height="192"> <img src="https://i.imgur.com/gngotRp.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -128,6 +137,7 @@ Updated items will be marked with a “✦”.
 | **Qimir's Dagger Lightsaber**<br/><br/>**The Stranger's Dagger Lightsaber** | <img src="https://i.imgur.com/bdbkBLZ.png" width="121" height="121"> | <img src="https://i.imgur.com/KBZe5bc.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -139,6 +149,7 @@ Updated items will be marked with a “✦”.
 | **Rey's Lightsaber (Reforged)** | <img src="https://i.imgur.com/5Lvaq4y.png" width="121" height="121"> | <img src="https://i.imgur.com/LMdHJms.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br>
 <details>
@@ -149,6 +160,7 @@ Updated items will be marked with a “✦”.
 | **Training Lightsaber (Blue)**<br/><br/>**Training Lightsaber (Green)** | <img src="https://i.imgur.com/OBbYSVk.png" width="121" height="121"> | <img src="https://i.imgur.com/k1pEj4o.png" width="192" height="192"> <img src="https://i.imgur.com/Ju87Nh9.png" width="192" height="192"> |
 > *Blades do not look exactly the same ingame.*
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
 <br><br>
 
