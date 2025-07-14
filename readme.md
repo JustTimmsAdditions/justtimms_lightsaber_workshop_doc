@@ -64,7 +64,6 @@ Updated items will be marked with a “✦”.
 <details>
 <summary>Darth Maul</summary>
 
-**Darth Maul**
 | Name | OFF | ON|
 |:--------------:|:---------:|:------------:|
 | **Darth Maul's Lightsaber (Apprentice)** | <img src="https://i.imgur.com/KKaWYJA.png" width="121" height="121"> | <img src="https://i.imgur.com/9D6vBPE.png" width="192" height="192"> |
