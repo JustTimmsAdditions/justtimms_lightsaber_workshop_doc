@@ -1,9 +1,11 @@
-
-
-
-
-
 ![Header](https://i.imgur.com/ZiFt0Za.png)
+
+## ⚔️Lightsabers
+![Static Badge](https://img.shields.io/badge/50-0?style=for-the-badge&label=Unique%20Lightsaber%20hilts&labelColor=434956&color=17b85a)<br>
+New items will be marked with a “★”.<br>
+Updated items will be marked with a “✦”.
+
+*Rename any sword in an anvil to get one of these lightsabers. You can also rename a stick to get the version of every lightsaber without a blade.*
 
 ## 📖Lightsaber List
 
