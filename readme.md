@@ -6,6 +6,7 @@ New items will be marked with a “★”.<br>
 Updated items will be marked with a “✦”.
 
 *Rename any sword in an anvil to get one of these lightsabers. You can also rename a stick to get the version of every lightsaber without a blade.*
+test
 
 ## 📖Lightsaber List
 
